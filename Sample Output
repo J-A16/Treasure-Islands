@@ -1,0 +1,825 @@
+
+Player 1
+
+First Mate: "Should the men bury the treasure randomly,
+             'aye' or 'no'?" First Mate: "Where should we bury the first set of treasure chests,
+             which requires 2 spaces, so there isn't too much in one spot?
+             Show us the location to start burying from and
+             we'll go from left to right."
+
+
+
+|                                                                      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+
+
+|$$                                                                    |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we bury the second set, which requires 3 spaces?"
+
+
+
+|$$       $$$                                                          |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we bury the third set, which requires 4 spaces?"
+
+
+
+|$$       $$$       $$$$                                               |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we bury the fourth set, which requires 5 spaces?"
+
+
+
+|$$       $$$       $$$$      $$$$$                                    |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we bury the fifth set, which requires 6 spaces?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Player 2
+
+First Mate: "Should the men bury the treasure randomly,
+             'aye' or 'no'?" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Player 1
+
+|                                                                      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O                                                                     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|                                                                      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$                                                                     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O                                                                     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O                              O                                      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$                                                                     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$                                                                    |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player1: "I just KNOW our smallest set of treasure chests is gone"
+(You've completely looted Player 1's smallest set of treasure chests.)
+First Mate: "Oh boy, then we better hurry up."
+
+Player 1
+
+|O                              O                                      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O                              O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$                                                                    |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$                                                              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+Player 1
+
+|O                              O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O                     O        O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$                                                              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O                                                             O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+Player 1
+
+|O                     O        O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" First Mate: "We already dug there, Captain."
+            "Where should we dig?" 
+|O          $          O        O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O                                                             O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $                                                      O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O          $          O        O          O                           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O          $          O        O          O O                         |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $                                                      O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$                                                     O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O          $          O        O          O O                         |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O          $          O        O          O O             O           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$                                                     O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$                                                    O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player1: "I just KNOW our second smallest set of treasure chests is gone"
+(You've completely looted Player 1's second smallest set of treasure chests.)
+First Mate: "There was a decent amount of booty in there.
+             We better hurry up."
+
+Player 1
+
+|O          $          O        O          O O             O           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$          O        O          O O             O           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$                                                    O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $                                            O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$          O        O          O O             O           |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$          O        O          O O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $                                            O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$                                           O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$          O        O          O O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$         O        O          O O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$                                           O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$                  $                        O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$         O        O          O O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" First Mate: "We already dug there, Captain."
+            "Where should we dig?" 
+|O         O$$         O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$                  $                        O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$                  $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+Player 1
+
+|O         O$$         O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$      O  O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$                  $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$                 $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$      O  O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player2: "I just KNOW our second smallest set of treasure chests is gone"
+(You've completely looted Player 2's second smallest set of treasure chests.)
+First Mate: "There was a decent amount of booty in there.
+             We better hurry up."
+
+
+Player 2
+
+|$$O      $$$       $$$                 $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$                $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player1: "I just KNOW our medium sized set of treasure chests is gone"
+(You've completely looted Player 1's medium sized set of treasure chests.)
+First Mate: "We better not catch any Scallywags over there.
+             We better hurry up."
+
+Player 1
+
+|O         O$$$     O  O        O         OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O        O       O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$$$                $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $         $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O        O       O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      O O       O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $         $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$        $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      O O       O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      O O O     O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$        $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$       $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      O O O     O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$       $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$      $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O             O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O    $        O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$      $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player1: "I just KNOW our second largest set of treasure chests is gone"
+(You've completely looted Player 1's second largest set of treasure chests.)
+First Mate: "Heave ho, men! We have to get over there."
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O    $        O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O    $$       O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $         O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$        O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O    $$       O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O    $$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $$        O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$$       O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O    $$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O   $$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $$$       O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$$$      O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O   $$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O  $$$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $$$$      O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$$$$     O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O  $$$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O $$$$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $$$$$     O              O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$$$$     OO             O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I have the feeling our treasure is going
+          to be alright." (MISS)
+
+Player 1
+
+|O         O$$$     O  O      OOO O     O OO O $$$$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|O         O$$$     O  O      OOO O     O OO O$$$$$$O      O    O      |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player2: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player2: "I just KNOW our largest set of treasure chests is gone"
+(You've completely looted Player 2's largest set of treasure chests.)
+First Mate: "Whoever we find, we'll turn into shark bait."
+
+
+Player 2
+
+|$$O      $$$       $$$$      $$$$$     $$$$$     OO             O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+First Mate: "Where should we dig?" 
+|$$O      $$$       $$$$      $$$$$     $$$$$$    OO             O     |
+ 1234567891123456789212345678931234567894123456789512345678961234567897
+          0         0         0         0         0         0         0
+
+Player1: "I'm getting a funny feeling, let's hurry
+          up so we can get back to the treasure." (HIT)
+Player1: "I just KNOW our largest set of treasure chests is gone"
+(You've completely looted Player 1's largest set of treasure chests.)
+First Mate: "Whoever we find, we'll turn into shark bait."
+
+Player 2 Wins!
